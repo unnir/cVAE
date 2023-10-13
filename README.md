@@ -1,4 +1,4 @@
-# MNIST Digit Generation with Conditional Variational Autoencoder (cVAE) using PyTorch
+# Conditional Variational Autoencoder (cVAE) using PyTorch
 
 ## Description:
 Explore the power of Conditional Variational Autoencoders (CVAEs) through this implementation trained on the MNIST dataset to generate handwritten digit images based on class labels. Utilizing the robust and versatile PyTorch library, this project showcases a straightforward yet effective approach to conditional generative modeling.
