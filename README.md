@@ -71,6 +71,9 @@ Feel free to fork the project, open issues, and submit Pull Requests. For major 
 
 ## References
 
-1. +Auto-Encoding Variational Bayes+(https://arxiv.org/abs/1312.6114) - Kingma and Welling's groundbreaking paper on Variational Autoencoders.
-2. +PyTorch Documentation+(https://pytorch.org/docs/stable/index.html) - Official documentation and tutorials.
-3. +MNIST dataset+(http://yann.lecun.com/exdb/mnist/) - Source of the MNIST dataset used in this project.
+1. `Auto-Encoding Variational Bayes`(https://arxiv.org/abs/1312.6114) - Kingma and Welling's groundbreaking paper on Variational Autoencoders.
+2. `PyTorch Documentation`(https://pytorch.org/docs/stable/index.html) - Official documentation and tutorials.
+3. `MNIST dataset`(http://yann.lecun.com/exdb/mnist/) - Source of the MNIST dataset used in this project.
+
+## Author 
+Vadim Borisov
