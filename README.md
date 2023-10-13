@@ -33,8 +33,8 @@ Explore the power of Conditional Variational Autoencoders (CVAEs) through this i
 
 1. Clone the repository:
    `bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/unnir/cVAE.git
+   cd cVAE
    `
 
 2. (Optional) It's advisable to create a virtual environment to manage dependencies:
